@@ -1,6 +1,6 @@
 # 👋 Hola, soy Samuel
 
-🎓 Soy estudiante de **Ingeniería en Software** con interés en el desarrollo web, backend y herramientas modernas para la automatización y despliegue de aplicaciones.
+Soy un ingeniero en software con interés en el desarrollo web, backend, analisis de datos y herramientas modernas para la automatización y despliegue de aplicaciones.
 
 Me encanta aprender nuevas tecnologías y trabajar en proyectos que resuelvan problemas reales. Actualmente estoy profundizando en frameworks modernos como **Django**, **React** y **Next.js**, además de herramientas como **Docker** para despliegue.
 
@@ -35,8 +35,8 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos que resuelvan pr
 ## 📫 Contacto
 
 - ✉️ samuelbriones558@gmail.com  
-- 🌐 [Mi LinkedIn](https://www.linkedin.com/in/wilmer-samuel-briones-garrido-463502361/)  
-- 📁 [Portafolio](https://tusitio.dev)
+- 🌐 [Mi LinkedIn](https://www.linkedin.com/in/samuel-briones-463502361/)  
+- 📁 [Portafolio](https://port-cv-chi.vercel.app/)
 
 ---
 
